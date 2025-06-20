@@ -1,12 +1,10 @@
-Use a for loop to iterate over a sequence like a list, a tuple, a dictionary, a set, or a string.
-
 ### Using a List
 days = ["mon", "tue", "wed", "thu","fri","sat","sun"]
 for x in days:
  print(x)
   
 ### Using a String
-for i in "spark"
+for i in "spark":
  print(i)
  
 ### Break Statement
